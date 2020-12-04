@@ -1,4 +1,4 @@
-### Hi there 👋, My name es Sergio!!
+### Hi there 👋, My name is Sergio!!
 #### I'm Full stack developer
 
 Skills: PHP / NODE JS / VUE JS / ANGULAR / JS / HTML / CSS / BOOTSTRAP
