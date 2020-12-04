@@ -1,10 +1,26 @@
-### Hi there 👋, My name is Sergio!!
-#### I'm Full stack developer
-
-Skills: PHP / NODE JS / VUE JS / ANGULAR / JS / HTML / CSS / BOOTSTRAP
+### Hi there 👋<h2> I'm Sergio</h2>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cabedux)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/scabedobel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CabedoCs)  
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; PHP| NODE JS | JAVA 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VUE JS | ANGULAR
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | GitHub
+
+
+
+<hr>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cabedux)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/scabedobel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CabedoCs) 
+
+
 
 
 
