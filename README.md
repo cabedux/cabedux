@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Sergio</h2>
+### Hi there 👋 I'm Sergio
 
 
 
