@@ -19,7 +19,7 @@
 
 <h3>💬 Contact me</h3>
 
-&nbsp;&nbsp; [<img src='/icon/github.png' alt='github' height='25' >](https://github.com/Cabedux)  [<img src='/icon/linkedin.png' alt='linkedin' height='25'>](https://www.linkedin.com/in/scabedobel/)  [<img src='/icon/twitter.png' alt='twitter' height='25'>](https://twitter.com/CabedoCs) 
+&nbsp;&nbsp;&nbsp; [<img src='/icon/github.png' alt='github' height='25' >](https://github.com/Cabedux) &nbsp; [<img src='/icon/linkedin.png' alt='linkedin' height='25'>](https://www.linkedin.com/in/scabedobel/) &nbsp; [<img src='/icon/twitter.png' alt='twitter' height='25'>](https://twitter.com/CabedoCs) 
 
 <!--
 **cabedux/cabedux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
