@@ -6,15 +6,15 @@
 
 
 
-- 💻 &nbsp; PHP| NODE JS | JAVA 
+- 💻 &nbsp; PHP| NODE JS | JAVA | Symfony | Laravel
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VUE JS | ANGULAR
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VUE | ANGULAR
 
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | GitHub
 
-
+<p></p>
 
 [<img src='/icon/github.png' alt='github' height='20' >](https://github.com/Cabedux)  [<img src='/icon/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/scabedobel/)  [<img src='/icon/twitter.png' alt='twitter' height='20'>](https://twitter.com/CabedoCs)
 
