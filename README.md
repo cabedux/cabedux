@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sergio
+### Hi, I'm Sergio 👋 [<img src='/icon/github.png' alt='github' height='20' >](https://github.com/Cabedux)  [<img src='/icon/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/scabedobel/)  [<img src='/icon/twitter.png' alt='twitter' height='20'>](https://twitter.com/CabedoCs) 
 
 
 
@@ -16,11 +16,6 @@
 
 
 &nbsp;
-
-[<img src='/icon/github.png' alt='github' height='20' >](https://github.com/Cabedux)  [<img src='/icon/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/scabedobel/)  [<img src='/icon/twitter.png' alt='twitter' height='20'>](https://twitter.com/CabedoCs)
-
-
-
 
 
 <!--
